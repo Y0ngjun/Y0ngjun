@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9b59b6,40:8e44ad,80:6f42c1&height=250&section=header&text=Shin%20Yong%20Jun&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40)  
 
-# 👋 Hello! I'm Shin Yong Jun!  
-I am interested in 
-**game development** 🎮 and 
+# 👋 Hello! I'm Shin Yong Jun!   
+I am interested in  
+**game development** 🎮 and  
 **web frontend** 🌐.  
 
 ## 📬 Contact Information  
