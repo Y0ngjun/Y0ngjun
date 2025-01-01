@@ -2,8 +2,8 @@
 
 # 👋 Hello! I'm Shin Yong Jun!   
 I am interested in  
-**game development** 🎮 and  
-**web frontend** 🌐.  
+🎮 **game development** and  
+🌐 **web frontend**.  
 
 ## 📬 Contact Information  
 - 💻 GitHub: [@Y0ngjun](https://github.com/Y0ngjun) 
