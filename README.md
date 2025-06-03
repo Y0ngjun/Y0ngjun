@@ -13,6 +13,4 @@ I am interested in
 ## 💡 Solved.ac  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forest528)](https://solved.ac/forest528)  
 ### Programming Languages  
-for PS: 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+for PS: ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
