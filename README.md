@@ -3,8 +3,8 @@
 # 👋 Hello! I'm Shin Yong Jun!  
 
 ## I am interested in  
-🎮 **Game Development**  
-✅ **Problem Solving**
+- 🎮 **Game Development**  
+- ✅ **Problem Solving**
 
 ## 📬 Blog    
 - 🐢 Blog: [Turtle Coding](https://blogofcreditj.tistory.com/) 
