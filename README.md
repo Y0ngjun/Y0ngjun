@@ -3,9 +3,6 @@
 - 🎮 **Game Development**  
 - ✅ **Problem Solving**
 
-## 📬 Blog    
-- 🐢 Blog: [Turtle Coding](https://blogofcreditj.tistory.com/) 
-
 ## 🎮 Game Development
 - [MineSweeper](https://github.com/Y0ngjun/MineSweeper)
 - [MatchThreeGame](https://github.com/Y0ngjun/MatchThreeGame)
@@ -17,6 +14,9 @@
 ## ✅ Problem Solving 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forest528)](https://solved.ac/forest528)  
 - [Algorithm](https://github.com/Y0ngjun/Algorithm)
+
+## 📬 Blog    
+- 🐢 Blog: [Turtle Coding](https://blogofcreditj.tistory.com/) 
 
 ## 📚 Study
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
