@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9b59b6,40:8e44ad,80:6f42c1&height=250&section=header&text=Shin%20Yong%20Jun&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40)  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y0ngjun)](https://github.com/Y0ngjun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y0ngjun)](https://github.com/Y0ngjun/github-readme-stats)
 ## 🎮 Game Development
 - [MineSweeper](https://github.com/Y0ngjun/MineSweeper)
 - [MatchThreeGame](https://github.com/Y0ngjun/MatchThreeGame)
