@@ -1,7 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9b59b6,40:8e44ad,80:6f42c1&height=250&section=header&text=Shin%20Yong%20Jun&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40)  
-## 🔍 I am interested in  
-- 🎮 **Game Development**  
-- ✅ **Problem Solving**
 
 ## 🎮 Game Development
 - [MineSweeper](https://github.com/Y0ngjun/MineSweeper)
@@ -15,8 +12,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forest528)](https://solved.ac/forest528)  
 - [Algorithm](https://github.com/Y0ngjun/Algorithm)
 
-## 📬 Blog    
-- 🐢 Blog: [Turtle Coding](https://blogofcreditj.tistory.com/) 
+## 🐢 Blog    
+- Blog: [Turtle Coding](https://blogofcreditj.tistory.com/) 
 
 ## 📚 Study
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
