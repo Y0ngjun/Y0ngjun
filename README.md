@@ -10,7 +10,7 @@
 
 ## ✅ Problem Solving 
 ### BAEKJOON
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forest528)](https://solved.ac/profile/forest528)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forest528)](https://solved.ac/forest528)
 ### LeetCode
 [![LeetCode](https://leetcard.jacoblin.cool/geobook?border=0&radius=20&theme=forest)](https://leetcode.com/u/geobook/)
 ### Repository
