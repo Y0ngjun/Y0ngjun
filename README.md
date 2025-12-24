@@ -9,7 +9,11 @@
 - [Portal2D](https://github.com/Y0ngjun/Portal2D) 
 
 ## ✅ Problem Solving 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forest528)](https://solved.ac/forest528)  
+### BAEKJOON
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forest528)](https://solved.ac/profile/forest528)
+### LeetCode
+[![LeetCode](https://leetcard.jacoblin.cool/geobook?border=0&radius=20&theme=forest)](https://leetcode.com/u/geobook/)
+### Repository
 - [Algorithm](https://github.com/Y0ngjun/Algorithm)
 
 ## 🐢 Blog    
