@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9b59b6,40:8e44ad,80:6f42c1&height=250&section=header&text=Shin%20Yong%20Jun&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40)  
 
+## 📚 Study
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
 ## 🎮 Game Development
 - [Mine Sweeper](https://github.com/Y0ngjun/MineSweeper)
 - [Match Three Game](https://github.com/Y0ngjun/MatchThreeGame)
@@ -25,8 +30,3 @@
 
 ## 🐢 Blog    
 - Blog: [Turtle Coding](https://blogofcreditj.tistory.com/) 
-
-## 📚 Study
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
