@@ -28,7 +28,7 @@
 ### LeetCode
 [![LeetCode](https://leetcard.jacoblin.cool/geobook?border=0&radius=20&theme=forest)](https://leetcode.com/u/geobook/)
 ### Repository
-- [Algorithm](https://github.com/Y0ngjun/Algorithm)
+[**Algorithm**](https://github.com/Y0ngjun/Algorithm)
 
 ## 🐢 Blog    
-- Blog: [Turtle Coding](https://blogofcreditj.tistory.com/)
+[**Turtle Coding**](https://blogofcreditj.tistory.com/)
