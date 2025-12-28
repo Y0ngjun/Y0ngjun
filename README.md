@@ -1,13 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9b59b6,40:8e44ad,80:6f42c1&height=250&section=header&text=Shin%20Yong%20Jun&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40)  
 
 ## 🎮 Game Development
-- [MineSweeper](https://github.com/Y0ngjun/MineSweeper)
-- [MatchThreeGame](https://github.com/Y0ngjun/MatchThreeGame)
+- [Mine Sweeper](https://github.com/Y0ngjun/MineSweeper)
+- [Match Three Game](https://github.com/Y0ngjun/MatchThreeGame)
 - [Optlympic](https://github.com/Y0ngjun/Optlympic)
-- [KimchiRun](https://github.com/Y0ngjun/KimchiRun)
+- [Kimchi Run](https://github.com/Y0ngjun/KimchiRun)
 - [Tetris](https://github.com/Oxalidaceae/se-tetris-team13)
-- [Portal2D](https://github.com/Y0ngjun/Portal2D) 
-- [The Hunter & The Hunted](https://github.com/jbjihwan/The_Hunter_and_The_Hunted) 
+- [Portal 2D](https://github.com/Y0ngjun/Portal2D) 
+- [The Hunter & The Hunted](https://github.com/Y0ngjun/TheHunterAndTheHunted)
+- [Frog Ninja](https://github.com/Y0ngjun/FrogNinja)
+- [Skel Survival](https://github.com/Y0ngjun/SkelSurvival)
+- [Dodge](https://github.com/Y0ngjun/Dodge)
+- [Uni-Run]()
+- [Zombie Survival]()
+- [Pong]()
 
 ## ✅ Problem Solving 
 ### BAEKJOON
