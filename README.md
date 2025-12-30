@@ -9,7 +9,7 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-## 🎮 Game Development Projects
+## 🎮 Game Development
 | ⭐ | Project | Description | Tech Stack |
 | :---: | :--- | :--- | :--- |
 | ⭐ | [**Portal 2D**](https://github.com/Y0ngjun/Portal2D) | 포탈의 이동을 구현한 2D 플랫포머 | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
