@@ -2,8 +2,7 @@
 
 ## 🔗 Links
 [![BLOG](https://img.shields.io/badge/BLOG-FF6C00?style=for-the-badge&logo=tistory&logoColor=white)](https://blogofcreditj.tistory.com/)
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yongjunshin.notion.site/portfolio)
-
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yongjunshin.notion.site/portfolio)  
 
 ## 📚 Study
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -33,4 +32,4 @@
 ### LeetCode
 [![LeetCode](https://leetcard.jacoblin.cool/geobook?border=0&radius=20&theme=forest)](https://leetcode.com/u/geobook/)
 ### Repository
-[![GitHub](https://img.shields.io/badge/ALGORTHM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Y0ngjun/Algorithm)
+[![GitHub](https://img.shields.io/badge/ALGORITHM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Y0ngjun/Algorithm)
